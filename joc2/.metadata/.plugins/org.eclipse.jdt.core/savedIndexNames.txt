@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\giuli\OneDrive\Desktop\joc2\.metadata\.plugins\org.eclipse.jdt.core
+2577175673.index
+1865797976.index
+3361118318.index
