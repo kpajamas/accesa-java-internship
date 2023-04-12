@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author giuli
- *
- */
-module game {
-}
